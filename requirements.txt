@@ -1,0 +1,6 @@
+SpeechRecognition
+librosa
+numpy
+tensorflow
+scikit-learn
+requests
